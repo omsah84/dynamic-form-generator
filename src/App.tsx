@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { JsonEditor } from "./components/JsonEditor"
 import { DynamicForm } from "./components/DynamicForm"
 import './App.css';
