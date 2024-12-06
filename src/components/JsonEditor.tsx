@@ -1,5 +1,3 @@
-import React, { useState } from 'react';
-
 interface JsonEditorProps {
   json: string;
   onChange: (newJson: string) => void;
